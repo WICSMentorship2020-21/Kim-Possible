@@ -2,3 +2,11 @@
 {
     color: blue;
 }
+
+p{
+    color: rgba(149, 199, 91, 0.836);
+}
+
+h1.col{
+    color: rgba(149, 199, 91, 0.836); 
+}
