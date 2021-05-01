@@ -4,9 +4,21 @@
 }
 
 p{
-    color: rgba(149, 199, 91, 0.836);
+    
+    color: rgba(255, 255, 255);
+    font-size: 20px
 }
 
 h1.col{
     color: rgba(149, 199, 91, 0.836); 
+}
+
+.card-header{
+    text-align: center;
+    font-size: 25px
+}
+
+h5.card-title{
+    color: #051a3f;
+    text-align: center
 }
